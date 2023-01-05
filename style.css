@@ -1,0 +1,158 @@
+/* navbar */
+.cocolog{
+    width: 156px;
+    margin-left: 80px;
+}
+.navbar a{
+    margin-left: 30px;
+}
+.navbar h5:hover{
+    cursor: pointer;
+}
+.fu:hover{
+   background-color: #f4000f;
+}
+.su:hover{
+    background-color: #ff560e;
+ }
+ .ku:hover{
+    background-color: #6ace7f;
+ }
+ .tu:hover{
+    background-color: #6ac9ce;
+ }
+ .pu:hover{
+    background-color: #d7b85b;
+ }
+ .mu:hover{
+    background-color:#f79900;
+ }
+ .bu:hover{
+    background-color: #A52A2A;
+ }
+.navbar h5{
+    margin-left: 30px;
+    margin-top: 10px;
+}
+/* first image section */
+.image1{
+    background-image: url(img/home-position-6.webp);
+    background-size: cover;
+    height: 65vh;
+    background-position: center center;
+    opacity: 90%;
+
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.photo_text a{
+    color: white;
+}
+.image2{
+    background-image: url(img/www-design-masthead-1440x480.webp);
+    background-size: cover;
+    height: 65vh;
+    background-position: center center;
+    opacity: 90%;
+
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.photo_text2 a{
+    color: white;
+}
+/* scond-section */
+
+.image3{
+    background-image: url(img/woman-fills-water-jug.webp);
+    background-size: cover;
+    height: 65vh;
+    background-position: center center;
+    opacity: 90%;
+
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.photo_text3 a{
+    color: white;
+}
+.image4{
+    background-image: url(img/coca-cola-racial-equality-1440x848.webp);
+    background-size: cover;
+    height: 65vh;
+    background-position: center center;
+    opacity: 90%; 
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.photo_text4 a{
+    color: white;
+}
+/* section-3 */
+.image5{
+    background-image: url(img/coca-cola-portfolio-homepage-1440x848.webp);
+    background-size: cover;
+    height: 65vh;
+    background-position: center center;
+    opacity: 90%; 
+
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+}
+.photo_text5 a{
+    color: white;
+}
+.image6{
+    background-image: url(img/sustainable-agriculture-woman-farmer-horizontal.webp);
+    background-size: cover;
+    height: 65vh;
+    background-position: center center;
+    opacity: 90%; 
+
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+}
+.photo_text6 a{
+    color: white;
+}
+/* footersection */
+.footerlogo{
+    width: 200px;
+}
+.footer_final a{
+   color: white;
+   margin-left: 50px;
+    
+}
+/* footer */
+footer {
+    border-top: 1px solid white;
+    background-color: #4a4a4a;
+  }
+  
+  .logo {
+    padding-top: 7vh;
+  }
+  
+  .links {
+    display: flex;
+    justify-content: end;
+    align-items: flex-end;
+  }
+  
+  .btn {
+    top: 50px;
+  }
+  
+ 
